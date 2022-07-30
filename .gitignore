@@ -14,4 +14,4 @@ build
 .env
 
 # Ignore yarn lock config files
-.lock
+yarn.lock
